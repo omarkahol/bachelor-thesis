@@ -1,0 +1,8 @@
+\BOOKMARK [1][-]{section.1}{INTRODUZIONE}{}% 1
+\BOOKMARK [1][-]{section.2}{PROCEDIMENTO ADOTTATO}{}% 2
+\BOOKMARK [1][-]{section.3}{PARALLEL DESIGN PATTERNS}{}% 3
+\BOOKMARK [1][-]{section.4}{IL METODO DELLE DIFFERENZE FINITE}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{LA STRUTTURA DEL PROGRAMMA}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{OPEN MP}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{MPI}{section.4}% 7
+\BOOKMARK [1][-]{section.5}{IL METODO DEGLI ELEMENTI FINITI}{}% 8

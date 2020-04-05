@@ -1,0 +1,7 @@
+\babel@toc {nil}{}
+\contentsline {chapter}{\numberline {1}Introduzione}{1}%
+\contentsline {chapter}{\numberline {2}La teoria economica su ....}{3}%
+\contentsline {section}{\numberline {2.1}Il modello di...}{3}%
+\contentsline {section}{\numberline {2.2}Critiche al modello di ....}{3}%
+\contentsline {chapter}{\numberline {3}Conclusioni}{5}%
+\contentsline {chapter}{\numberline {A}Codice}{7}%
